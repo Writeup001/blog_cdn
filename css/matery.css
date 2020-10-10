@@ -94,7 +94,7 @@ hr {
 }
 
 blockquote {
-    border-left: 5px solid #42b983;
+    border-left: 5px solid #00a4ff;
     padding: 1rem 0.8rem 0.2rem 0.8rem;
     color: #666;
     background-color: rgba(66, 185, 131, .1);
@@ -141,7 +141,7 @@ code {
     top: 13px !important;
     font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier, monospace;
     font-size: 0.91rem;
-    color: #e96900;
+    color: #FF3502;
     background-color: #f8f8f8;
     border-radius: 2px;
 }
@@ -268,7 +268,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right,#00f260 0%,#0575e6 100%);
+    background-image: linear-gradient(to right,#00f260 0,#0575e6 100%);
 }
 
 .text-color {
@@ -903,7 +903,7 @@ article a {
 
 article a:hover {
     font-weight: bold;
-    color: #42b983;
+    color: #00a4ff;
     text-decoration: underline;
 }
 
@@ -1086,7 +1086,7 @@ article .article-tags .chip {
     border-radius: 15px;
     margin-right: 5px;
     margin-bottom: 2px;
-    color: #42b983;
+    color: #00a4ff;
     background: #fff;
     border: 1px solid;
     transition: all 0.6s ease-in-out;
@@ -1094,17 +1094,17 @@ article .article-tags .chip {
 
 #artDetail .tag_share .article-tag .chip:hover {
     color: #fff;
-    background: #42b983;
+    background: #00a4ff;
 }
 
 #artDetail .post-cate {
     float: right;
-    color: #42b983;
+    color: #00a4ff;
 }
 
 #artDetail .post-cate a {
     padding-right: 5px;
-    color: #42b983;
+    color: #00a4ff;
     font-weight: 500;
 }
 
@@ -1123,7 +1123,7 @@ article .article-tags .chip {
 
 #artDetail .post-info .post-category:hover {
     font-weight: bold;
-    color: #42b983;
+    color: #00a4ff;
     text-decoration: underline;
 }
 
@@ -1186,7 +1186,7 @@ article .article-tags .chip {
 
 #artDetail .reprint a {
     font-size: 1.05rem;
-    color: #42b983;
+    color: #00a4ff;
     font-weight: 500;
 }
 
@@ -1202,7 +1202,7 @@ article .article-tags .chip {
 
 #articleContent a {
     padding: 0 2px;
-    color: #42b983;
+    color: #00a4ff;
     font-weight: 500;
     text-decoration: underline;
     word-wrap: break-word;
@@ -1636,7 +1636,7 @@ thead {
 }
 
 .post-statis .statis .count a {
-    color: #42b983;
+    color: #00a4ff;
 }
 
 .post-statis .statis .name {
@@ -1901,7 +1901,7 @@ footer .copy-right {
 
 .search-result-list .search-result-title {
     font-size: 1.4rem;
-    color: #42b983;
+    color: #00a4ff;
 }
 
 .search-result-list li {
@@ -1914,7 +1914,7 @@ footer .copy-right {
     padding: 1px 5px 1px 4px;
     border-radius: 2px;
     background-color: #f2f2f2;
-    color: #e96900;
+    color: #FF3502;
     font-style: normal;
     white-space: pre-wrap;
 }
@@ -1931,7 +1931,7 @@ footer .copy-right {
 }
 
 .top-scroll .btn-floating {
-    background: linear-gradient(to bottom right, #FF5E3A 0%, #FF2A68 100%);
+    background: linear-gradient(to bottom right, #ff3502 0%, #ff3502 90%);
     width: 48px;
     height: 48px;
 }

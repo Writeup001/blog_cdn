@@ -1,3 +1,3 @@
 # CDN
 
-这里是博客网站 CDN 仓库
+这里是我的博客网站 https://www.writeup.top  CDN 仓库
